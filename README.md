@@ -17,7 +17,7 @@ A powerful and user-friendly web application that generates subtitles for upload
 
 📁 Folder Structure
 
-bash
+```bash
 subtitles-generator/
 │
 ├── backend/                # Flask backend logic
