@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+venv/
+myenv/
+subtitles_env/
+backend/subvenv/
+
+# IDEs/editors
+.vscode/
+
+# Output and user uploads (optional)
+output/
+uploads/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
