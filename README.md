@@ -32,7 +32,7 @@ subtitles-generator/
 ├── server.py               # Flask entry point
 └── setup.py                # (Optional) for packaging
 
-
+```
 🧠 Technologies Used :
 
 Python 3.8+
